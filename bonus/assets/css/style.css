@@ -11,6 +11,14 @@ body {
   margin: 0;
 }
 
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+  height: 225px;
+}
+
 /* sticky footer styling */
 
 /* https://css-tricks.com/snippets/css/sticky-footer/ */
