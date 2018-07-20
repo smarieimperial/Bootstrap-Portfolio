@@ -57,7 +57,7 @@ h3 {
   z-index: 99;
   width: 100%;
   margin: 0 0 30px;
-  overflow: auto;
+  overflow: none;
   color: #fff;
   background: #fff;
   border-bottom: 2px solid #ccc;
